@@ -5,3 +5,4 @@ equal-paths-test
 
 hw4_tests/
 hw4_tests.tar.gz
+*.dSYM
